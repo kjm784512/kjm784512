@@ -46,4 +46,5 @@ Here are some ideas to get you started:
 | 성일정보고등학교 방과후 자바 기초 | 2023. 04 ~ 2023. 07 | 자바 기초 강좌   | Sungil Information High School |    
 | 성일정보고등학교 방과후 자바 Level 1 | 2024. 04 ~ 현재 | 자바 Level 2   | Sungil Information High School | 
 | 성일정보고 SIBS sungil_INFORMATION_BROADCASTING_SYSTEM 동아리 | 𝟮𝟬𝟮3. 𝟎𝟑 ~ 현재 | broadcast | SIBS / sungil_INFORMATION_BROADCASTING_SYSTEM |
+| 메이픅스토리 MAPLE MapleStory | 2019. 06 ~ 현재 | 메이플스토리 | nexon |
 </div>
